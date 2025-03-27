@@ -456,4 +456,4 @@ def test_funda_plot_3():
 if __name__ == "__main__":
     import sys
     a = (2, 3, 4, 5, 10, 15, 20, 25, 35, 45)
-    # kompletter_durchlauf(a)
+    kompletter_durchlauf(a)
